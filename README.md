@@ -38,6 +38,37 @@ EmployeeManagement/
 3. Install the required dependencies.
 4. Run the Flask application.
 
+## Setup Guide
+
+### Requirements
+
+- Python 3
+- Flask
+- Git
+
+### Steps to Run the Project
+
+1. Open the project folder.
+2. Create a virtual environment:
+
+   python -m venv venv
+
+3. Activate the environment on Windows:
+
+   venv\Scripts\activate
+
+4. Install dependencies:
+
+   pip install -r requirements.txt
+
+5. Run the application:
+
+   python app.py
+
+6. Open the application in your browser:
+
+   http://127.0.0.1:5000
+
 ## Author
 
 DevOps Junior
