@@ -2,11 +2,11 @@
 
 ## Project Description
 
-The Employee Management Portal is a web-based
-application designed to manage employee information.
+The Employee Management Portal uses REST API
+architecture for managing employee information.
 
-It provides features such as employee registration,
-employee searching, and employee record management.
+It provides employee registration,searching, and 
+employee record management through RESTful endpoints.
 
 ## Technologies Used
 
