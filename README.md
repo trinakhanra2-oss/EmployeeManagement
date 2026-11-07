@@ -1,12 +1,14 @@
+
 # Employee Management Portal
 
 ## Project Description
 
-The Employee Management Portal is a web-based
-application designed to manage employee information.
+The Employee Management Portal uses GraphQL
+architecture for managing employee information.
 
-It provides features such as employee registration,
-employee searching, and employee record management.
+It provides employee registration,employee searching, 
+and employee record management through GraphQL queries
+and mutations.
 
 ## Technologies Used
 
