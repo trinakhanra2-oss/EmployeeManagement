@@ -3,12 +3,18 @@
 
 ## Project Description
 
-The Employee Management Portal uses GraphQL
-architecture for managing employee information.
+The Employee Management Portal supports both GraphQL
+and REST API architecture for managing employee information.
 
-It provides employee registration,employee searching, 
-and employee record management through GraphQL queries
-and mutations.
+GraphQL provides flexible queries and mutations
+for retrieving and managing employee information.
+
+REST API provides endpoints for employee
+registration,searching,and record management.
+
+The portal supports employee registration, 
+employee searching , and employee record management.
+
 
 ## Technologies Used
 
